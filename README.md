@@ -68,7 +68,7 @@ Not a language designed by humans who happened to accommodate machines. A langua
 
 Danslav Slavenskoj had been programming since childhood — literally teaching a programming class to his classmates in the third grade of elementary school. He went on to Harvard, worked as a translator of human languages, programmed in his free time, and spent years thinking about the intersection of human language and machine computation.
 
-He knew about Panini from his intensive Sanskrit class with Professor Witzel. He learned about Refal and the story of the Buran shuttle, which flew unmanned like modern drones, but at impressive scale.
+He knew about Panini from his intensive Sanskrit class with Professor Witzel at Harvard. He learned about Refal and the story of the Buran shuttle, which flew unmanned like modern drones, but at impressive scale.
 
 And he saw what was coming with AI-generated code.
 
@@ -124,6 +124,9 @@ This is Buran.
 
 *The language is currently in development. Specification and reference implementation expected in early 2026.*
 
+---
+
+¹ Donald E. Knuth, "Computer Programming as an Art," *Communications of the ACM*, Vol. 17, No. 12, December 1974 (1974 Turing Award Lecture).
 
 
 © 2026 Danslav Slavenskoj
