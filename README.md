@@ -66,7 +66,7 @@ Not a language designed by humans who happened to accommodate machines. A langua
 
 ## Convergence
 
-Danslav Slavenskoj had been programming since childhood — literally teaching a programming class to his classmates in the third grade of elementary school. He went on to Harvard, worked as a translator of human language, programmed in his free time, and spent years thinking about the intersection of human language and machine computation.
+Danslav Slavenskoj had been programming since childhood — literally teaching a programming class to his classmates in the third grade of elementary school. He went on to Harvard, worked as a translator of human languages, programmed in his free time, and spent years thinking about the intersection of human language and machine computation.
 
 He knew about Panini from his intensive Sanskrit class with Professor Witzel. He learned about Refal and the story of the Buran shuttle, which flew unmanned like modern drones, but at impressive scale.
 
